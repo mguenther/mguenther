@@ -1,7 +1,7 @@
 ### Hi there, I'm Markus 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.mguenther.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarkus_guenther&screen_name=markus_guenther)
+[![Website](https://img.shields.io/website?label=mguenther.net&style=for-the-badge&url=https%3A%2F%2Fmguenther.net)](https://www.mguenther.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/markus_guenther?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarkus_guenther&screen_name=markus_guenther)
 
 I am an independent freelance software architect (iSAQB certified), developer and trainer with main focus on Java-/Scala-/Kotlin-based enterprise solutions, systems integrations and modern architectural styles. For the past years, I have been working with clients from a variety of industries: telecommunications, logistics, public sector, media, automotive and finance.
 
@@ -21,7 +21,7 @@ I am an independent freelance software architect (iSAQB certified), developer an
 
 ### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ### Hi there 
 
@@ -39,3 +39,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://www.mguenther.net
+[twitter]: https://twitter.com/markus_guenther
+[xing]: https://www.xing.com/profile/Markus_Guenther18/cv
+[linkedin]: https://www.linkedin.com/in/markus-g%C3%BCnther-3397522b/
