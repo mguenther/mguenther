@@ -7,7 +7,7 @@ I am an independent freelance software architect (iSAQB certified), developer an
 
 - 🔭 I’m currently working on workshops for Apache Kafka and its ecosystem, my open-source testing library Kafka for JUnit, AI-enabled Enterprise Search
 - 🌱 I’m currently reading *Strategic Monoliths and Microservices* by Vaughn Vernon and Tomasz Jaskula
-- 👯 I’m always looking for discussions on the topics I'm interested in: Distributed Systems, Enterprise Search, Software Architecture
+- 👯 I’m always looking for discussions on the topics I'm interested in: Distributed Systems, Messaging Solutions, Systems Integration, Software Architecture, Enterprise Search
 - 😄 Pronouns: he/him
 
 ### Connect
