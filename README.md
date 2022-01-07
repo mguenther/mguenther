@@ -10,7 +10,7 @@ I am an independent freelance software architect (iSAQB certified), developer an
 - 👯 I’m always looking for discussions on the topics I'm interested in: Distributed Systems, Enterprise Search, Software Architecture
 - 😄 Pronouns: he/him
 
-### Connect with me
+### Connect
 
 [<img align="left" alt="www.mguenther.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="markus_guenther | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,26 +19,12 @@ I am an independent freelance software architect (iSAQB certified), developer an
 
 <br />
 
-### Languages and Tools
+### 📕 Latest Blog Posts
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### Hi there 
-
-<!--
-**mguenther/mguenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ [more blog posts...](https://www.mguenther.net)
 
 [website]: https://www.mguenther.net
 [twitter]: https://twitter.com/markus_guenther
