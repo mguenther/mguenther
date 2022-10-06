@@ -22,11 +22,11 @@ I am an independent freelance software architect (iSAQB certified), developer an
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Version 3.2.2 of Kafka for JUnit released](http://www.mguenther.net/2022/10/version_3_2_2_of_kafka_junit_released/index.html)
 - [Version 3.2.1 of Kafka for JUnit released](http://www.mguenther.net/2022/10/version_3_2_1_of_kafka_junit_released/index.html)
 - [Version 3.2.0 of Kafka for JUnit released](http://www.mguenther.net/2022/06/version_3_2_0_of_kafka_junit_released/index.html)
 - [Sampling from data streams](http://www.mguenther.net/2022/04/sampling_from_data_streams/index.html)
 - [Version 3.1.0 of Kafka for JUnit released](http://www.mguenther.net/2022/01/version_3_1_0_of_kafka_junit_released/index.html)
-- [Version 3.0.0 of Kafka for JUnit released](http://www.mguenther.net/2021/12/version_3_0_0_of_kafka_junit_released/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.mguenther.net)
