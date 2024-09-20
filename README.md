@@ -25,10 +25,10 @@ I am an independent freelance software architect (iSAQB certified), developer an
 
 <!-- BLOG-POST-LIST:START -->
 - [Performance classification based on service times](http://www.mguenther.net/2024/09/performance_classification_based_on_service_times.html)
-- [Enabling gzip compression for dedicated resources](http://www.mguenther.net/2024/09/enabling_gzip_compression_for_dedicated_resources/index.html)
 - [Workshop: Apache Kafka for Java Developers](http://www.mguenther.net/2024/04/workshop_apache_kafka_for_java_developers/index.html)
 - [Version 3.6.0 of Kafka for JUnit released](http://www.mguenther.net/2023/12/version_3_6_0_of_kafka_junit_released/index.html)
 - [Version 3.5.1 of Kafka for JUnit released](http://www.mguenther.net/2023/11/version_3_5_1_of_kafka_junit_released/index.html)
+- [Version 3.5.0 of Kafka for JUnit released](http://www.mguenther.net/2023/11/version_3_5_0_of_kafka_junit_released/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.mguenther.net)
