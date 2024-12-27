@@ -14,7 +14,6 @@ I am an independent freelance software architect (iSAQB certified), developer an
 ### Connect
 
 [<img align="left" alt="www.mguenther.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="markus_guenther | Bluesky" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bsky]
 [<img align="left" alt="Markus_Guenther18 | XING" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="markus-günther-3397522b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
