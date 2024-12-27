@@ -4,7 +4,7 @@
 
 I am an independent freelance software architect (iSAQB certified), developer and trainer with main focus on Java-/Scala-/Kotlin-based enterprise solutions, systems integrations and modern architectural styles. For the past years, I have been working with clients from a variety of industries: telecommunications, logistics, public sector, media, automotive and finance.
 
-- 🔭 I’m currently working on workshops for Apache Kafka and its ecosystem, my open-source testing library Kafka for JUnit, AI-enabled Enterprise Search
+- 🔭 I’m currently working on workshops for Apache Kafka and its ecosystem and AI-enabled Enterprise Search
 - 🌱 I’m currently reading
   - *Domain-Driven Transformation* by Carola Lilienthal and Henning Schwentner
   - *Hacker's Delight* by Henry S. Warren Jr.
